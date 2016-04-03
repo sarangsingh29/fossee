@@ -1,8 +1,7 @@
 #FOSSEE Summer Internship
 #Project: Xcos on Browser
+#PartA: Xcos on Desktop
 
-
-PartA: Xcos on Desktop
 #Problems:
 1. Create a Java Swing application which will open a frame. Place a label, Changing Properties, in
 the center. When a user right clicks on label, a menu (list) should open with three options. One
@@ -27,7 +26,7 @@ d. Use Object Oriented principles to develop the same
 
 #Solutions:
 
-Compile each of the files using Java-compiler and execute.
+Compile each of the files using \#Java-compiler and execute.
 
 1. 
 Input: There is no input from the user initially.
