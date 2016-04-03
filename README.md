@@ -26,7 +26,7 @@ d. Use Object Oriented principles to develop the same
 
 #Solutions:
 
-Compile each of the files using \#Java-compiler and execute.
+Compile each of the files using Java-compiler and execute.
 
 1. 
 Input: There is no input from the user initially.
