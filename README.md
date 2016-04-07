@@ -29,6 +29,7 @@ d. Use Object Oriented principles to develop the same
 Compile each of the files using Java-compiler and execute.
 
 1. 
+File Name: ChangingProperties.java
 Input: There is no input from the user initially.
 	Working: 
 	1. User has to RIGHT-CLICK the label "Changing Properties" to get the pop-up menu.
@@ -49,6 +50,7 @@ Input: There is no input from the user initially.
 
 
 2.
+File Name: StudentRanking.java
 NOTE:
 The application is interactive with the user. There should not be any problem with the usage. In case
 of any difficulties, the input and output details are specified below.
