@@ -26,6 +26,16 @@ iv) Click on 'Close' Button to close the window and return to the initial html p
 
 
 
+
+
+
+
+
+
+
+
+
+
 #PartA: Xcos on Desktop
 
 #Problems:
