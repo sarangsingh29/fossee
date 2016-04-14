@@ -6,7 +6,7 @@
 #Problem:
 1. Replicating a given diagram in HTML using mxGraph.
 
-Solution:
+#Solution:
 The collection of files required for performing the given task are uploaded as a compressed file (.zip) #Part B Final.
 
 #Execution Guide:
