@@ -1,5 +1,31 @@
 #FOSSEE Summer Internship
 #Project: Xcos on Browser
+
+
+#PartB: Xcos on Browser
+#Problem:
+1. Replicating a given diagram in HTML using mxGraph.
+
+Solution:
+The collection of files required for performing the given task are uploaded as a compressed file (.zip) #Part B Final.
+
+#Execution Guide:
+1. Open start.html using a compatible browser (preferably, Firefox or Chrome).
+The replicated diagram can be seen.
+
+#Additional Features:
+1. The two required connections (labelled A and B) are added at proper positions.
+
+2.
+i) Double click the 'Animated Viewer' cell to open a new window which takes the input from the user in a form. 
+ii) Click on 'Save' Button to save the form data on the local storage of the browser.
+iii) Click on 'See Values' Button to see the last saved form data.
+iv) Click on 'Close' Button to close the window and return to the initial html page (start.html).
+
+
+
+
+
 #PartA: Xcos on Desktop
 
 #Problems:
