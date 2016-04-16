@@ -7,7 +7,7 @@
 1. Replicating a given diagram in HTML using mxGraph.
 
 #Solution:
-The collection of files required for performing the given task are uploaded as a compressed file (.zip) #[New]partb.
+The collection of files required for performing the given task are uploaded as a compressed file (.zip) #[NEW]Part B.
 
 #Execution Guide:
 1. Open start.html using a compatible browser (preferably, Firefox or Chrome).
